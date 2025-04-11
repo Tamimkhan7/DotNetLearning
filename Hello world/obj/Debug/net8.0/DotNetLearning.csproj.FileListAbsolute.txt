@@ -12,3 +12,4 @@
 /home/tamim/Desktop/DotNetLearning/obj/Debug/net8.0/DotNetLearning.pdb
 /home/tamim/Desktop/DotNetLearning/obj/Debug/net8.0/DotNetLearning.genruntimeconfig.cache
 /home/tamim/Desktop/DotNetLearning/obj/Debug/net8.0/ref/DotNetLearning.dll
+/home/tamim/Desktop/DotNetLearning/obj/Debug/net8.0/DotNetLearning.sourcelink.json
