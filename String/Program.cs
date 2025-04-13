@@ -37,5 +37,46 @@ string txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 // both are working fine, we can use any of them
     Console.WriteLine(fullName);
     Console.WriteLine(fullName2);
+
+
+    // adding a two string
+    string x = "10", y = "20";
+    string ans = x+y;
+    Console.WriteLine(ans);
+
+// string interpolation
+
+    firstName = "John";
+   lastName = "Doe";
+
+  string name = $"My full name is : {firstName} {lastName}";
+  Console.WriteLine(name);
+
+  // access string 
+  string myString = "Hello";
+  Console.WriteLine(myString[4]);
+
+  // You can also find the index position of a specific character in a string, by using the IndexOf() method:
+   myString = "Hello";
+  // given e index position into the hello word
+  Console.WriteLine(myString.IndexOf("e"));
+
+
+// find substring in the name string
+       name = "John Doe";
+      
+    // startpoint and ending post we will be mention here
+     string substr = name.Substring(0, 3);
+    Console.WriteLine(substr);
+
+// The sequence \'  inserts a single quote in a string:
+    txt = "It\'s alright.";
+    Console.WriteLine(txt);
+
+// The sequence \\  inserts a single backslash in a string:
+    txt = "The character \\ is called backslash.";
+        Console.WriteLine(txt);
+
+
     }
 }

@@ -16,8 +16,9 @@ class TypeCast{
          int print = (int)c; //print ASCII value of the character 
         Console.WriteLine(print);
 
+        //is called nameing print
+        Console.WriteLine($"My character is = {c}");
 
-
-
+        // we can use Parse or TryParse method for change the string value into the integer 
     }
 }
