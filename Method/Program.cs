@@ -54,7 +54,4 @@ class Test
         Named_Arguments(child1: "hamim", child2: "khata", child3: "Bala");
 
     }
-
-
-
 }
