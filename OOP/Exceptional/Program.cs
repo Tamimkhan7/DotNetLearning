@@ -1,35 +1,60 @@
-﻿
-using System;
-
+﻿using System;
 
 class Test
 {
-
     public static void Main(string[] args)
     {
         Console.WriteLine("Welcome to the calculator App");
 
         try
         {
-            Console.Write("Enter num1  = ");
-            int num1 = Convert.ToInt32(Console.ReadLine());
+            int num1 = ReadIntegerInput("num1");
+            int num2 = ReadIntegerInput("num2");
 
-            Console.Write("Enter num2  = ");
-            int num2 = Convert.ToInt32(Console.ReadLine());
+            if (num2 > 1000)
+                throw new ArgumentException("Num2 can't be greater than 1000");
 
             int res = num1 / num2;
-            Console.Write($"Result is :- {res}");
+            Console.WriteLine($"Result is :- {res}");
         }
-        // find exception message
-        catch (Exception e)
+        catch (ArgumentNullException)
         {
-            Console.WriteLine($"Exception is :- {e.Message}");
+            Console.WriteLine($"Input can't be null or empty");
         }
-
+        // catch (OverflowException)
+        // {
+        //     Console.WriteLine($"Number was too big or small for Int32");
+        // }
+        // catch (FormatException)
+        // {
+        //     Console.WriteLine($"Invalid Input! Please enter a valid integer");
+        // }
+        // catch (DivideByZeroException)
+        // {
+        //     Console.WriteLine($"Cannot divide by zero");
+        // }
+        // catch (Exception e)
+        // {
+        //     Console.WriteLine($"Exception is :- {e.Message}");
+        // }
         finally
         {
-            // finally function ar modde jai thakbe oita kaj korbe normally, onno jaygay jodi oh wrong ba somossa dey tahole oh aita kono somossa hobe na
             Console.WriteLine($"Goodbye!!!!");
+        }
+
+        static int ReadIntegerInput(string prompt)
+        {
+            while (true)
+            {
+                Console.Write($"Enter {prompt} = ");
+                string input = Console.ReadLine() ?? "";
+                if (string.IsNullOrEmpty(input) || !int.TryParse(input, out int result))
+                {
+                    Console.WriteLine($"Invalid Input! Please enter a valid integer.");
+                    continue;
+                }
+                return result;
+            }
         }
     }
 }

@@ -1,0 +1,45 @@
+/home/tamim/Desktop/DotNetLearning/bin/Debug/net8.0/DotNetLearning
+/home/tamim/Desktop/DotNetLearning/bin/Debug/net8.0/DotNetLearning.deps.json
+/home/tamim/Desktop/DotNetLearning/bin/Debug/net8.0/DotNetLearning.runtimeconfig.json
+/home/tamim/Desktop/DotNetLearning/bin/Debug/net8.0/DotNetLearning.dll
+/home/tamim/Desktop/DotNetLearning/bin/Debug/net8.0/DotNetLearning.pdb
+/home/tamim/Desktop/DotNetLearning/obj/Debug/net8.0/DotNetLearning.GeneratedMSBuildEditorConfig.editorconfig
+/home/tamim/Desktop/DotNetLearning/obj/Debug/net8.0/DotNetLearning.AssemblyInfoInputs.cache
+/home/tamim/Desktop/DotNetLearning/obj/Debug/net8.0/DotNetLearning.AssemblyInfo.cs
+/home/tamim/Desktop/DotNetLearning/obj/Debug/net8.0/DotNetLearning.csproj.CoreCompileInputs.cache
+/home/tamim/Desktop/DotNetLearning/obj/Debug/net8.0/DotNetLearning.dll
+/home/tamim/Desktop/DotNetLearning/obj/Debug/net8.0/refint/DotNetLearning.dll
+/home/tamim/Desktop/DotNetLearning/obj/Debug/net8.0/DotNetLearning.pdb
+/home/tamim/Desktop/DotNetLearning/obj/Debug/net8.0/DotNetLearning.genruntimeconfig.cache
+/home/tamim/Desktop/DotNetLearning/obj/Debug/net8.0/ref/DotNetLearning.dll
+/home/tamim/Desktop/DotNetLearning/obj/Debug/net8.0/DotNetLearning.sourcelink.json
+/home/tamim/Desktop/DotNetLearning/Hello world/bin/Debug/net8.0/DotNetLearning
+/home/tamim/Desktop/DotNetLearning/Hello world/bin/Debug/net8.0/DotNetLearning.deps.json
+/home/tamim/Desktop/DotNetLearning/Hello world/bin/Debug/net8.0/DotNetLearning.runtimeconfig.json
+/home/tamim/Desktop/DotNetLearning/Hello world/bin/Debug/net8.0/DotNetLearning.dll
+/home/tamim/Desktop/DotNetLearning/Hello world/bin/Debug/net8.0/DotNetLearning.pdb
+/home/tamim/Desktop/DotNetLearning/Hello world/obj/Debug/net8.0/DotNetLearning.GeneratedMSBuildEditorConfig.editorconfig
+/home/tamim/Desktop/DotNetLearning/Hello world/obj/Debug/net8.0/DotNetLearning.AssemblyInfoInputs.cache
+/home/tamim/Desktop/DotNetLearning/Hello world/obj/Debug/net8.0/DotNetLearning.AssemblyInfo.cs
+/home/tamim/Desktop/DotNetLearning/Hello world/obj/Debug/net8.0/DotNetLearning.csproj.CoreCompileInputs.cache
+/home/tamim/Desktop/DotNetLearning/Hello world/obj/Debug/net8.0/DotNetLearning.sourcelink.json
+/home/tamim/Desktop/DotNetLearning/Hello world/obj/Debug/net8.0/DotNetLearning.dll
+/home/tamim/Desktop/DotNetLearning/Hello world/obj/Debug/net8.0/refint/DotNetLearning.dll
+/home/tamim/Desktop/DotNetLearning/Hello world/obj/Debug/net8.0/DotNetLearning.pdb
+/home/tamim/Desktop/DotNetLearning/Hello world/obj/Debug/net8.0/DotNetLearning.genruntimeconfig.cache
+/home/tamim/Desktop/DotNetLearning/Hello world/obj/Debug/net8.0/ref/DotNetLearning.dll
+/home/tamim/Desktop/DotNetLearning/StudentManagementProject/obj/Debug/net8.0/DotNetLearning.GeneratedMSBuildEditorConfig.editorconfig
+/home/tamim/Desktop/DotNetLearning/StudentManagementProject/obj/Debug/net8.0/DotNetLearning.AssemblyInfoInputs.cache
+/home/tamim/Desktop/DotNetLearning/StudentManagementProject/obj/Debug/net8.0/DotNetLearning.AssemblyInfo.cs
+/home/tamim/Desktop/DotNetLearning/StudentManagementProject/obj/Debug/net8.0/DotNetLearning.csproj.CoreCompileInputs.cache
+/home/tamim/Desktop/DotNetLearning/StudentManagementProject/obj/Debug/net8.0/DotNetLearning.sourcelink.json
+/home/tamim/Desktop/DotNetLearning/StudentManagementProject/obj/Debug/net8.0/DotNetLearning.dll
+/home/tamim/Desktop/DotNetLearning/StudentManagementProject/obj/Debug/net8.0/refint/DotNetLearning.dll
+/home/tamim/Desktop/DotNetLearning/StudentManagementProject/obj/Debug/net8.0/DotNetLearning.pdb
+/home/tamim/Desktop/DotNetLearning/StudentManagementProject/bin/Debug/net8.0/DotNetLearning
+/home/tamim/Desktop/DotNetLearning/StudentManagementProject/bin/Debug/net8.0/DotNetLearning.deps.json
+/home/tamim/Desktop/DotNetLearning/StudentManagementProject/bin/Debug/net8.0/DotNetLearning.runtimeconfig.json
+/home/tamim/Desktop/DotNetLearning/StudentManagementProject/bin/Debug/net8.0/DotNetLearning.dll
+/home/tamim/Desktop/DotNetLearning/StudentManagementProject/bin/Debug/net8.0/DotNetLearning.pdb
+/home/tamim/Desktop/DotNetLearning/StudentManagementProject/obj/Debug/net8.0/DotNetLearning.genruntimeconfig.cache
+/home/tamim/Desktop/DotNetLearning/StudentManagementProject/obj/Debug/net8.0/ref/DotNetLearning.dll
